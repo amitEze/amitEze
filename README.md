@@ -16,6 +16,7 @@ Python, SQL, PostgreSQL, SQLAlchemy, AWS, Docker, Terraform, PyTorch, scikit-lea
 ## Projects
 
 - [dj-prep](https://github.com/amitEze/dj-prep): a small tool that prepares new tracks in Rekordbox with one command.
+- [Interval Timer](IntervalTimer/): a simple Android interval timer for workouts ([download APK](https://github.com/amitEze/amitEze/releases/latest)).
 
 ## Education
 

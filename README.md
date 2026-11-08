@@ -1,33 +1,23 @@
 # Hi, I'm Amit 👋
 
-**Software & ML Engineer** — backend engineer at J.P. Morgan, M.Sc. Computer Science student at Reichman University.
+I'm a software engineer working on backend systems at J.P. Morgan, and I'm doing my M.Sc. in Computer Science at Reichman University. I like Python, data pipelines and machine learning.
 
-I build data-heavy backend systems in Python and apply machine learning to search, ranking, recommendation and uplift problems.
+## What I use
 
-## What I work with
+Python, SQL, PostgreSQL, SQLAlchemy, AWS, Docker, Terraform, PyTorch, scikit-learn, XGBoost, Git
 
-| | |
-|---|---|
-| **Languages** | Python, SQL |
-| **Backend & data** | PostgreSQL, SQLAlchemy, large-scale data pipelines |
-| **Cloud & infra** | AWS, Docker, Terraform, CI/CD, Datadog |
-| **ML** | PyTorch, scikit-learn, XGBoost |
-| **Tools** | Git |
+## What I'm interested in
 
-## What I'm into
+- Backend engineering
+- Search and ranking
+- Recommendation systems
+- Uplift modeling
 
-- **Backend engineering** — owning services from development through production: pipelines, monitoring, troubleshooting.
-- **Search & ranking** — neural retrieval, reranking and LLM-based ranking.
-- **Recommendation systems and uplift modeling** — figuring out who actually responds to an intervention.
-- **Unsupervised & streaming learning** — clustering methods that adapt as data arrives.
+## Projects
 
-## Featured project
+- [dj-prep](https://github.com/amitEze/dj-prep): a small tool that prepares new tracks in Rekordbox with one command.
 
-### [dj-prep](https://github.com/amitEze/dj-prep)
-Analyzes new tracks and prepares them in Rekordbox — memory cues, Genre field and My Tags — in one command. *Python*
+## Education
 
-## Background
-
-- 🎓 M.Sc. Computer Science — Reichman University
-- 🎓 B.Sc. Computer Science — Ben-Gurion University of the Negev
-- 💼 Backend Engineer — J.P. Morgan
+- M.Sc. Computer Science, Reichman University
+- B.Sc. Computer Science, Ben-Gurion University

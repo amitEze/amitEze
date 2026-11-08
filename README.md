@@ -19,5 +19,5 @@ Python, SQL, PostgreSQL, SQLAlchemy, AWS, Docker, Terraform, PyTorch, scikit-lea
 
 ## Education
 
-- M.Sc. Computer Science, Reichman University
-- B.Sc. Computer Science, Ben-Gurion University
+- M.Sc. Computer Science, Reichman University ([my projects](https://github.com/amitEze/MSc))
+- B.Sc. Computer Science, Ben-Gurion University ([my projects](https://github.com/amitEze/BSc))
